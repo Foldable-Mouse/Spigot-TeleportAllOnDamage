@@ -2,4 +2,5 @@ name: TeleportAllOnDamageTaken
 version: 1.0
 api-version: 1.16
 main: foldable.technique.teledmg.Main
+author: Foldable_Mouse
 description: When one player takes damage, all other players teleport to that player.
